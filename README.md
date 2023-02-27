@@ -1,3 +1,3 @@
 # ATMExercise
 Simple React ATM
-<img src="./images.atm" />
+<img src="images.atm" />
